@@ -1,2 +1,0 @@
-# mindpuzzler-game
-# mindpuzzler-game
